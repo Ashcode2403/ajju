@@ -78,7 +78,8 @@ h1, h2, h3 {
 
 .arabic,
 .opening-bismillah {
-  font-family: 'Cormorant Garamond', serif;
+  font-family: 'Brittany', cursive;
+  text-align: center;
 }
 
 .opening-bismillah {
@@ -593,7 +594,7 @@ section {
 /* Desktop and up */
 @media (min-width: 769px) {
   .opening-bismillah {
-    font-size: 58px;
+    font-size: 78px;
     line-height: 1.8;
     min-height: 100px;
   }
