@@ -78,15 +78,15 @@ h1, h2, h3 {
 
 .arabic,
 .opening-bismillah {
-  font-family: 'Amiri', serif;
+  font-family: 'Cormorant Garamond', serif;
 }
 
 .opening-bismillah {
   color: var(--gold);
-  font-size: 32px;
+  font-size: 82px;
   line-height: 1;
-  direction: rtl;
-  unicode-bidi: bidi-override;
+  /* direction: rtl; */
+  /* unicode-bidi: bidi-override; */
   min-height: 30px;
   letter-spacing: 1px;
 }
@@ -266,7 +266,7 @@ h1, h2, h3 {
   gap: 0;
   flex-wrap: nowrap;
   font-family: 'Italianno', cursive;
-  font-size: 66px;
+  font-size: 60px;
   line-height: 0.84;
   letter-spacing: 0.5px;
   margin-bottom: 18px;
@@ -560,7 +560,7 @@ section {
   }
 
   .couple-names {
-    font-size: 78px;
+    font-size: 58px;
   }
 
   .couple-names .ampersand {
@@ -645,7 +645,7 @@ section {
   .couple-names {
     flex-direction: row;
     gap: 10px;
-    font-size: 120px;
+    font-size: 80px;
     line-height: 0.9;
     margin-bottom: 22px;
   }
